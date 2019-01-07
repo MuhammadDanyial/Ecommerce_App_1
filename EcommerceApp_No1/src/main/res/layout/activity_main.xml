@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-<LinearLayout
+<RelativeLayout
     android:layout_width="wrap_content"
     android:layout_height="wrap_content">
 
@@ -15,5 +15,5 @@
         tools:layout_editor_absoluteX="95dp"
         tools:layout_editor_absoluteY="144dp" />
 
-</LinearLayout>
+</RelativeLayout>
 </android.support.constraint.ConstraintLayout>
